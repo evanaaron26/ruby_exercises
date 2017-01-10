@@ -1,0 +1,10 @@
+Hello and welcome to Git
+today we learned about git and other fun things
+
+change 123
+
+looking forward to tommorrow
+
+This is a new change
+
+This is a second change 
